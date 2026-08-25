@@ -347,7 +347,7 @@ return {
             Name = "Diamonds & Pearls (Slowed to Perfection)",
             Artist = "QKReign, VaporGod",
             Duration = "03:25",
-            Cover = "rbxassetid://133677608514622",
+            Cover = "rbxassetid://105897309192629",
             AudioURL = "https://raw.githubusercontent.com/nbritez672-tech/Yin-controllermusic/main/QKReign%20%2C%20VaporGod%20-%20Diamonds%20%26%20Pearls%20(slowed%20to%20perfection).mp3",
             CacheName = "qkreign_vaporgod_diamonds_pearls_slowed.mp3",
         },
