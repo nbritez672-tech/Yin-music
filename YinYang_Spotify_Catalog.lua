@@ -11,6 +11,15 @@ Each entry must provide:
 - Cover
 - AudioURL
 - CacheName
+
+Optional (método 2 de portada — imagen real descargada y cacheada, igual que el audio):
+- CoverURL     : link directo a la imagen (ej. raw.githubusercontent.com/.../cover.png)
+- CoverCacheName : nombre de archivo local para cachear esa imagen (si se omite, se
+                   deriva automáticamente del Name, igual que CacheName)
+
+Si CoverURL está vacío o ausente, se sigue usando Cover (rbxassetid://...) como hasta ahora.
+Si CoverURL tiene un valor, tiene prioridad y la imagen se descarga/cachea la primera vez
+que se muestra esa canción.
 ]]
 
 return {
