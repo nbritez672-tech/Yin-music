@@ -1676,5 +1676,15 @@ return {
             AudioURL = "https://raw.githubusercontent.com/nbritez672-tech/Yin-controllermusic/main/189_mandragora_slowed_reverb.mp3",
             CacheName = "189_mandragora_slowed_reverb.mp3",
         },
+
+        {
+            Name = "BEHEMOTH (Slowed & Reverbed)",
+            Artist = "CHIEF DORO, N!GHTvisiøn, Yb Wasg'ood & RushLow",
+            Duration = "1:50",
+            Cover = "",
+            CoverURL = "https://raw.githubusercontent.com/nbritez672-tech/Yin-music-imagen/main/covers/190_behemoth_slowed_reverbed.jpg",
+            AudioURL = "https://raw.githubusercontent.com/nbritez672-tech/Yin-controllermusic/main/190_behemoth_slowed_reverbed.mp3",
+            CacheName = "190_behemoth_slowed_reverbed.mp3",
+        },
     },
 }
